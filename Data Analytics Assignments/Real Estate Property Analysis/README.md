@@ -43,7 +43,7 @@ The analysis includes the following key tasks:
 
 ## 📷 Dashboard Screenshot
 
-![Dashboard Screenshot](Real Estate Property Analysis/assets/Real Estate Property Analysis.png)
+[Dashboard Screenshot](Real Estate Property Analysis/assets/Real Estate Property Analysis.png)
 
 > This dashboard provides key insights into the real estate market, highlighting property price trends, city comparisons, and seller status—enabling better understanding and targeting of buyer segments.
 
